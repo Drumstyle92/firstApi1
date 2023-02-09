@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"co.develhope.firstApi1","l":"FirstApi1Application"},{"p":"co.develhope.firstApi1.controller","l":"NameController"}];updateSearchResults();

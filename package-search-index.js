@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"co.develhope.firstApi1"},{"l":"co.develhope.firstApi1.controller"}];updateSearchResults();
